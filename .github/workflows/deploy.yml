@@ -43,7 +43,10 @@ jobs:
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4
               with:
+                  repository-name: v1c77/v1c77.github.io
                   branch: gh-pages
                   folder: public
                   clean: true
                   single-commit: true
+                  token: ${{ secrets.PAT }}
+

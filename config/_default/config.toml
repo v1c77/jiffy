@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "http://blog-ng.heyuhua.com"
+baseurl = "http://blog.heyuhua.com"
 languageCode = "zh-cn"
 paginate = 10
 title = "何育华的日记"
