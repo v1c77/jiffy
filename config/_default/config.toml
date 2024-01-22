@@ -2,7 +2,7 @@
 baseurl = "http://blog.heyuhua.com"
 languageCode = "zh-cn"
 paginate = 10
-title = "何育华的日记"
+title = "我的日记"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
