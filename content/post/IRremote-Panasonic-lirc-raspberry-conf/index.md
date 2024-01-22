@@ -89,7 +89,7 @@ makepkg -i
 ```
 sudo raspi-config
 ```
-![resp-config](/img/arch-resp-config.png)
+![resp-config](arch-resp-config.png)
 
 
 
