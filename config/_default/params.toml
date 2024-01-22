@@ -19,7 +19,7 @@ subtitle = "drafts....."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/mxbc_love.gif"
 
 [article]
 math = false
