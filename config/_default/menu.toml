@@ -16,9 +16,19 @@ url = "https://github.com/CaiJimmy/hugo-theme-stack"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "stackoverflow"
+name = "Stack Overflow"
+url = "https://stackoverflow.com/users/6382035/vi-ci"
+
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-stackoverflow"
+
+[[social]]
+identifier = "telegram"
+name = "telegram"
+url = "https://t.me/v1c77"
+
+
+[social.params]
+icon = "brand-telegram"
